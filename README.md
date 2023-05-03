@@ -29,7 +29,7 @@
 
 <h2 id="projeto">💻 <b>Projeto:</b></h2>
 
-- [Veja o projeto online]()
+- [Veja o projeto online](https://brunohnsouza.github.io/cv-w3c/)
 
 <br>
 
